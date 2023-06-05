@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600999220 source:c:\users\admin\documents\workspace\stackclass\main.cpp
+	<iostream>
+	<fstream>
+	"Stack.h"
+
+1600447730 c:\users\admin\documents\workspace\stackclass\include\stack.h
+	<vector>
+
